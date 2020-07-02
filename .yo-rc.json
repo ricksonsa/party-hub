@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.ricksonalves.partyhub"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "monolith",
+    "baseName": "partyhub",
+    "packageName": "com.ricksonalves.partyhub",
+    "packageFolder": "com/ricksonalves/partyhub",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MGY4MmI1MzQ0OTFjY2E1NjAwMTg1Y2MwZTAyZGUzMDEzM2Q1ZTE4OGEzZTgxZTIyOGY3MTQ0MzNjNTE1NWEzMTEyYTFjYjQxYWNjMmQ1MjhlYzYyNjZmYTU4ZWE5YmMwODQzMDRkOTk0Zjk5OTU2MGJlMzdjZDk2NzlkYzRkNTY=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "flatly",
+    "clientThemeVariant": "light",
+    "creationTimestamp": 1593669451211,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
